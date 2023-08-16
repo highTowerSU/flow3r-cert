@@ -8,4 +8,4 @@ class = "CertApp"
 [metadata]
 author = "highTower.SU"
 license = "LGPL-3.0-only"
-url = "https://github.com/highTowerSU/flow3r-cert"
+url = "highTower/flow3r-cert/"
