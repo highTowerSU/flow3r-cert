@@ -1,0 +1,11 @@
+[app]
+name = "CERT SoSi"
+menu = "Apps"
+
+[entry]
+class = "CertApp"
+
+[metadata]
+author = "highTower.SU"
+license = "LGPL-3.0-only"
+url = "highTower/flow3r-cert/"
